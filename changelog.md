@@ -1,3 +1,6 @@
+# 1.0.3
+- Fix a bug
+
 # 1.0.2
 - iOS support
 
